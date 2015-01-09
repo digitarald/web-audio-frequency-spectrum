@@ -1,3 +1,3 @@
-# Web Audio Tuner
+# Web Audio Frequency Spectrum
 
-Give you a pitch, needs a better name.
+In point of fact, shows a frequency spectrum using Web Audio. Works in the browser and on all screen sizes.
