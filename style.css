@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+html {
+  font-size: 62.5%;
+}
+html,
+body,
+main {
+  height: 100vh;
+  overflow: hidden;
+}
+body {
+  font: 1.62rem/1.62 sans-serif;
+  color: #eaeae7;
+  background-color: #000;
+  user-select: none;
+  overflow: hidden;
+}
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}

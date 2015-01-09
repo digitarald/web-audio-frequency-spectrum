@@ -1,0 +1,19 @@
+{
+	"name": "FireSignal",
+	"launch_path": "/index.html",
+	"version": "0.1",
+	"description": "Frequency spectrum",
+	"icons": {
+		"128": "icon-128.png",
+		"512": "icon-512.png"
+	},
+	"developer": {
+		"name": "Harald Kirschner",
+		"url": "http://digitarald.com"
+	},
+	"permissions": {
+		"audio-capture": {
+			"description": "Required to detect pitch"
+		}
+	}
+}
